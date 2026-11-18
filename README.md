@@ -70,4 +70,4 @@ Python, pandas, NumPy, scikit-learn, Matplotlib, kagglehub
 
 ## Author
 
-Your name - [GitHub](https://github.com/haneen09)
+Haneen Aly - [GitHub](https://github.com/haneen09)
